@@ -17,6 +17,6 @@
 - Classification or Regression Task or something else?
   - Regression: because the model with be expected tp predict a value
   - Multiple Regression specifically because were using multiple features to predict a value
-  - Univariate Regression specifically because we are only predicting a single value for each district.
+  - Uni-variate Regression specifically because we are only predicting a single value for each district.
 - Batch Learning or Online Learning?
-  - Batch Learning: online learning wouldn't make since there is no new data coming into the system and the enviroment is not changing rapidly
+  - Batch Learning: online learning wouldn't make sense because there is no new data coming into the system and the environment is not rapidly changing
