@@ -11,7 +11,6 @@
   - costly, time-consuming, inaccurate (estimates were off by about 30%) which is why the company thinks it would be useful to train a model that can predict a district's median housing price.
 
 -The Census Data seems to be a good source for data because it includes the median housing prices for thousands of districts along with other potentially useful features
-
 - Training Supervision for model:
   - Supervised Learning: the can clearly be trained with labeled examples
 - Classification or Regression Task or something else?
